@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #23424A;
+    height: 70%;
+}
+
+.content {
+    margin: 0 auto;
+    width: 100%;
+    margin-left: 5rem;
+    padding-top: 6rem;
+    max-width: 50%;
+}
+
+.content h2, p {
+    color: #fff;
+}
+
+.content h2 {
+    font-size: 3rem;
+}
+
+.content p {
+    font-size: 1.3125rem;
+}
+
+
+.cta-button {
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-bottom: 10rem;
+}
+
+.cta-button a {
+    font-size: 1.3125rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #23424A;
+    background-color: #38CFD9;
+    border-radius: 30px;
+    padding: 1em 2.5em;
+}
